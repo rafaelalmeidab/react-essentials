@@ -4,9 +4,9 @@ header {
 }
 
 header img {
-  height: 5rem;
+  height: 9rem;
   width: 10rem;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 
 header h1 {
