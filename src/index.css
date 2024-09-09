@@ -55,7 +55,7 @@ main h2 {
   border: none;
   border-radius: 6px;
   background-color: transparent;
-  color: #ffffff;
+  color: #5c5c5c;
   font-family: "JetBrains Mono", sans-serif;
   font-size: 1rem;
   cursor: pointer;
@@ -63,19 +63,20 @@ main h2 {
 }
 
 #examples menu button:hover {
-  background-color: #131313;
+  background-color: #111111;
   color: #ffffff;
 }
 
 #examples menu button.active {
-  background-color: #000000;
-  color: #b8b7b7;
+  background-color: #111111;
+  color: #ffffff;
+  cursor: default;
 }
 
 #tab-content {
   padding: 1rem;
   border-radius: 6px;
-  background-color: #ffffff;
+  background-color: #111111;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 

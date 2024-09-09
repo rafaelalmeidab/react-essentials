@@ -6,22 +6,32 @@ header {
 header img {
   height: 9rem;
   width: 10rem;
-  /* object-fit: cover; */
 }
 
 header h1 {
   margin: 0;
   font-family: "JetBrains Mono", sans-serif;
-  font-size: 5rem;
+  font-size: 4rem;
   background: linear-gradient(40deg, #ffffff, #ffffff, #ffffff, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
 }
 
+/* header h1:hover {
+  color: #ffffff;
+  cursor: default;
+} */
+
 header p {
   margin: 0;
   font-size: 1.25rem;
-  color: #ffffff;
+  color: #5c5c5c;
   font-family: "JetBrains Mono", sans-serif;
 }
+
+header p:hover {
+  color: #ffffff;
+  cursor: default;
+}
+
