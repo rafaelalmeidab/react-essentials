@@ -23,14 +23,14 @@ header h1 {
   cursor: default;
 } */
 
-header p {
+header span {
   margin: 0;
   font-size: 1.25rem;
   color: #5c5c5c;
   font-family: "JetBrains Mono", sans-serif;
 }
 
-header p:hover {
+header span:hover {
   color: #ffffff;
   cursor: default;
 }
