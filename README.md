@@ -37,6 +37,6 @@ To explore the projects and solutions, follow these steps.
 4. If you already have the project built, run:
 
    ```bash
-   docker compose build
+   docker compose up -d
      
 5. Open http://localhost:5173 in your browser.
