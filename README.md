@@ -27,7 +27,6 @@ To explore the projects and solutions, follow these steps.
 
    ```bash
    cd react-essentials
-
    
 3. Ensure Docker and Docker Compose are installed. Then, build the project:
 
