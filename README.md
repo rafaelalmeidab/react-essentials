@@ -1,7 +1,7 @@
-# React Tic-Tac-Toe Project
+# React Essentials Project
 
 ## Overview
-This project is a React-based implementation of Tic-Tac-Toe, covering key React concepts and best practices.
+This project is a React-based project, covering key React concepts and best practices.
 
 ## Features
 
